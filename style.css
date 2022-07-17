@@ -2,7 +2,7 @@ body {
   background-color: hsl(45, 82%, 85%);
 
   color: tomato;
-
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   display: block;
   margin-block-start: 0.67em;
